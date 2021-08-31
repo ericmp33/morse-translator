@@ -19,7 +19,7 @@ public class MorseTranslator {
                 input = input.replaceAll("\\s{3,}","  "); // trim spaces in-between words
                 for (String letter : input.split(" ")) { // split the sentence
                     output.append(toLatin.get(letter)); // append the translation of the letter
-                    if (toLatin.get(letter) == null) { // if doesn't find the translation
+                    if (toLatin.get(letter) == null) { // if it doesn't find the translation
                         validInput = false; // is not a valid input
                         break;
                     }
