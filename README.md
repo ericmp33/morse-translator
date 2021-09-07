@@ -1,5 +1,5 @@
 # morse-translator🔤📝🖥️
-Welcome to the Morse-Latin & Latin-Morse translator, programmed with Java 16.
+Welcome to the CLI Morse-Latin & Latin-Morse translator, programmed with Java 16.
 
 - How to run it?🤔<br>
   <a href="https://adoptium.net/?variant=openjdk16&jvmVariant=hotspot">Get Java☕</a> - build 16 or newer version and execute <a href="https://github.com/ericmp33/morse-translator/raw/main/out/artifacts/morse_translator_jar/morse-translator.jar">the jar</a>.
